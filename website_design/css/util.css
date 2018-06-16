@@ -3708,12 +3708,12 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 /*[ Background ]
 ///////////////////////////////////////////////////////////
 */
-.bg0 {background-color: #e65540;}
+.bg0 {background-color: #4166fc;}
 .bg1 {background-color: #222222;}
 .bg3 {background-color: rgba(255,255,255,0.95);}
 .bg4 {background-color: #111111;}
-.bg5 {background-color: #f2f2f2;}
-.bg6 {background-color: #f0f0f0;}
+.bg5 {background-color: #f5f6f8;}
+.bg6 {background-color: #edeced;}
 .bg7 {background-color: #333333;}
 .bg8 {background-color: #e6e6e6;}
 
@@ -3963,7 +3963,7 @@ EFFECT   EFFECT   EFFECT   EFFECT   EFFECT   EFFECT  EFFECT
 ///////////////////////////////////////////////////////////
 */
 .hov1:hover {
-    background-color: #e65540;
+    background-color: #4166fc;
   	color: white;
 }
 
