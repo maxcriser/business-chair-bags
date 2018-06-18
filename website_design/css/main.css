@@ -121,6 +121,11 @@ a:hover {
 /* ------------------------------------ */
 h1,h2,h3,h4,h5,h6 {
 	margin: 0px;
+	font-family: Montserrat-Regular;
+}
+
+.hover:hover {
+	color: #4166fc;
 }
 
 p {
@@ -1051,6 +1056,10 @@ li.sale-noti > a {
 
 .side-menu li {
   list-style-type: none;
+}
+
+.font-mon {
+  font-family: Montserrat-Regular;
 }
 
 .side-menu .main-menu {margin-bottom: 0;}
